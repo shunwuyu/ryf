@@ -1,0 +1,1 @@
+echo "This is the body" |/ usr/bin/mail -s "Subject" shunwu2001@163.com
